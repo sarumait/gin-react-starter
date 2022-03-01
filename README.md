@@ -5,7 +5,7 @@ To build and run the starter project:
 
 `make run`
 
-###Libraries and tooling used:
+### Libraries and tooling used:
 #### Backend
 - Gin
 - Zerolog 
